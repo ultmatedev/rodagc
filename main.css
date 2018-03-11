@@ -415,7 +415,7 @@ background-size: cover;
 }
 .icon-circle-arrow::after {
   content: '';
-  background: url("https://cdn.rawgit.com/ultmatedev/rodagc/31925cc0/arrow-xs-right.svg") center no-repeat;
+  background: url("https://cdn.rawgit.com/ultmatedev/rodagc/660ecdc/arrow-xs-right.svg") center no-repeat;
   width: 6px;
   height: 11px;
   display: inline-block;
@@ -9203,7 +9203,7 @@ h5 {
   margin-top: -5px;
   width: 6px;
   height: 11px;
-  background: url("https://cdn.rawgit.com/ultmatedev/rodagc/31925cc0/arrow-xs-right.svg") no-repeat;
+  background: url("https://cdn.rawgit.com/ultmatedev/rodagc/660ecdc/arrow-xs-right.svg") no-repeat;
   -webkit-transform: rotate(90deg);
           transform: rotate(90deg);
 }
