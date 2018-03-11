@@ -42,7 +42,7 @@ a.rounded-arrow {
 .image {
   background-repeat: no-repeat;
   border-radius: 4px;
-background-image: url('/img/bg/bg9.png');
+background-image: url('../img/bg/bg9.png');
 background-position: center center;
 background-size: cover;
 }
@@ -105,13 +105,13 @@ background-size: cover;
 .video-sm::after {
   width: 42px;
   height: 61px;
-  background-image: url("../img/pics/video-sm.svg");
+  background-image: url("/img/pics/video-sm.svg");
   background-size: 42px 61px;
 }
 .video-circle::after {
   width: 150px;
   height: 150px;
-  background-image: url("../img/pics/video-circle.svg");
+  background-image: url("/img/pics/video-circle.svg");
   background-size: 150px 150px;
 }
 .video:hover::after,
@@ -484,7 +484,7 @@ max-height: 1;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-background: url("../img/bg/bg5.jpg");
+background: url("/img/bg/bg5.jpg");
 background-size: cover;
 background-attachment: fixed;
 background-repeat: no-repeat;
@@ -7912,7 +7912,7 @@ h5 {
 @media (min-width: 992px) {
   .headers.bg-iphone-left,
   .headers.bg-iphone-right {
-    background-image: url("../img/bg/iphone-lg.svg");
+    background-image: url("/img/bg/iphone-lg.svg");
     background-repeat: no-repeat;
     background-size: 412px auto;
   }
@@ -7925,7 +7925,7 @@ h5 {
 }
 @media (min-width: 992px) {
   .headers .bg-iphone-left-small {
-    background-image: url("../img/iphone-330.svg");
+    background-image: url("/img/iphone-330.svg");
     background-repeat: no-repeat;
     background-size: 330px auto;
     background-position: center;
@@ -7938,14 +7938,14 @@ h5 {
 }
 @media (min-width: 992px) {
   .headers.bg-devices {
-    background-image: url("../img/ipad-iphone.svg");
+    background-image: url("/img/ipad-iphone.svg");
     background-repeat: no-repeat;
     background-position: right 190px;
     background-size: 50% auto;
   }
 }
 .headers .bg-browser {
-  background-image: url("../img/browserframe.svg");
+  background-image: url("/img/browserframe.svg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 100% auto;
@@ -7956,7 +7956,7 @@ h5 {
   padding-top: 30%;
 }
 .headers .bg-ipad {
-  background-image: url("../img/ipad.svg");
+  background-image: url("/img/ipad.svg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 100% auto;
@@ -7994,7 +7994,7 @@ h5 {
 @media (min-width: 992px) {
   .contents.bg-iphone-left,
   .contents.bg-iphone-right {
-    background-image: url("../img/bg/iphone-lg.svg");
+    background-image: url("/img/bg/iphone-lg.svg");
     background-size: 420px 853px;
   }
 }
@@ -8009,7 +8009,7 @@ h5 {
   }
 }
 .contents.bg-devices {
-  background-image: url("../img/bg/ipads.svg");
+  background-image: url("/img/bg/ipads.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8020,7 +8020,7 @@ h5 {
 }
 @media (min-width: 576px) {
   .contents.bg-macbook {
-    background-image: url("../img/bg/macbook.svg");
+    background-image: url("/img/bg/macbook.svg");
     background-size: 473px 280px;
     background-position-x: calc(50% + 55px);
   }
@@ -8033,14 +8033,14 @@ h5 {
 }
 @media (min-width: 992px) {
   .sliders.bg-macbook {
-    background: url("../img/bg/macbook-full.svg") no-repeat;
+    background: url("/img/bg/macbook-full.svg") no-repeat;
     background-size: 760px 439px;
     background-position: calc(50% - 500px) center;
   }
 }
 .sliders .bg-iphone {
   padding: 53px 0 62px;
-  background: #fff url("../img/bg/iphone-330-noscreen.svg") no-repeat;
+  background: #fff url("/img/bg/iphone-330-noscreen.svg") no-repeat;
   background-position: center top;
   background-size: auto 462px;
 }
@@ -8105,7 +8105,7 @@ h5 {
   .features.bg-iphone-right,
   .features.bg-iphone-right-top,
   .features.bg-macbook-left {
-    background-image: url("../img/bg/iphone-lg.svg");
+    background-image: url("/img/bg/iphone-lg.svg");
     background-size: 280px 568px;
   }
 }
@@ -8135,7 +8135,7 @@ h5 {
 }
 @media (min-width: 992px) {
   .features.bg-iphone-center {
-    background-image: url("../img/bg/iphone-lg.svg");
+    background-image: url("/img/bg/iphone-lg.svg");
     background-position: 50% 260px;
   }
 }
@@ -8161,14 +8161,14 @@ h5 {
 }
 @media (min-width: 576px) {
   .features.bg-macbook-left {
-    background-image: url("../img/bg/macbook-full.svg");
+    background-image: url("/img/bg/macbook-full.svg");
     background-size: 594px 342px;
     background-position: calc(50% - 372px) center;
   }
 }
 @media (min-width: 992px) {
   .features.bg-macbook-left {
-    background-image: url("../img/bg/macbook-full.svg");
+    background-image: url("/img/bg/macbook-full.svg");
     background-size: 890px 514px;
     background-position: calc(50% - 475px) 268px;
   }
@@ -8176,7 +8176,7 @@ h5 {
 .features .bg-macbook-center {
   background-size: 121% auto;
   background-position: center top;
-  background-image: url("../img/bg/macbook-full.svg");
+  background-image: url("/img/bg/macbook-full.svg");
 }
 .features .bg-macbook-center::after {
   content: '';
@@ -8197,7 +8197,7 @@ h5 {
   transition: 0.3s ease border;
   cursor: pointer;
   margin: -16px 0 0 -16px;
-  background: url("../img/icons/plus.svg") center no-repeat #fff;
+  background: url("/img/icons/plus.svg") center no-repeat #fff;
 }
 .features .icon-feature:hover {
   border-color: #E0C284;
@@ -8631,7 +8631,7 @@ h5 {
   vertical-align: middle;
 }
 .prices .price__table-big tr td.ok {
-  background: #fff url("../img/icons/table-ok.svg") no-repeat center;
+  background: #fff url("/img/icons/table-ok.svg") no-repeat center;
   background-size: 16px auto;
 }
 .prices .price__table-big tr td h1 {
@@ -8665,7 +8665,7 @@ h5 {
   }
 }
 .call-to-actions.bg-iphone {
-  background: url("../img/iPhone.svg") center bottom -95px no-repeat;
+  background: url("/img/iPhone.svg") center bottom -95px no-repeat;
   padding-bottom: 350px;
   background-size: 224px auto;
 }
@@ -8727,7 +8727,7 @@ h5 {
 }
 @media (min-width: 576px) {
   .forms.bg-macbook {
-    background-image: url("../img/bg/macbook-full.svg");
+    background-image: url("/img/bg/macbook-full.svg");
     background-size: 600px auto;
     background-position-x: calc(80% + 315px);
   }
@@ -8739,7 +8739,7 @@ h5 {
   }
 }
 .forms.bg-devices {
-  background-image: url("../img/bg/ipads.svg");
+  background-image: url("/img/bg/ipads.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8753,7 +8753,7 @@ h5 {
   z-index: -1;
 }
 .forms .checkbox input:checked ~ .check-pointer {
-  background: url("../img/icons/verification-mark.svg") center no-repeat;
+  background: url("/img/icons/verification-mark.svg") center no-repeat;
   background-size: 80%;
 }
 .forms .checkbox .check-pointer {
@@ -8846,7 +8846,7 @@ h5 {
   color: #efe0c1;
 }
 .contacts .bg-map-right {
-  background: url("../img/maps/map-1.png") no-repeat;
+  background: url("/img/maps/map-1.png") no-repeat;
   background-size: cover;
   min-height: calc(100vw - 30px);
   border-radius: 4px;
@@ -8857,7 +8857,7 @@ h5 {
   }
 }
 .contacts .bg-map-left {
-  background-image: url("../img/maps/map-2.png");
+  background-image: url("/img/maps/map-2.png");
   background-size: cover;
   border-radius: 4px;
   min-height: calc(100vw - 30px);
@@ -8868,12 +8868,12 @@ h5 {
   }
 }
 .contacts .bg-square-map {
-  background-image: url("../img/maps/map-4.png");
+  background-image: url("/img/maps/map-4.png");
   border-radius: 4px;
   background-size: cover;
 }
 .contacts .bg-full-map {
-  background-image: url("../img/maps/map-3.png");
+  background-image: url("/img/maps/map-3.png");
   background-size: cover;
 }
 .contacts .pin {
@@ -9203,7 +9203,7 @@ h5 {
   margin-top: -5px;
   width: 6px;
   height: 11px;
-  background: url("../img/icons/arrow-xs-right.svg") no-repeat;
+  background: url("/img/icons/arrow-xs-right.svg") no-repeat;
   -webkit-transform: rotate(90deg);
           transform: rotate(90deg);
 }
@@ -10364,7 +10364,7 @@ height: 150px;
   height: 14px;
   padding-left: 2px;
   vertical-align: sub;
-  background: url("../img/icon-tip-20x20.svg") 100% 50% no-repeat;
+  background: url("/img/icon-tip-20x20.svg") 100% 50% no-repeat;
   background-size: contain;
   cursor: pointer
 }
