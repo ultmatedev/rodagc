@@ -42,40 +42,40 @@ a.rounded-arrow {
 .image {
   background-repeat: no-repeat;
   border-radius: 4px;
-background-image: url('../img/bg/bg9.png');
+background-image: url('/img/bg/bg9.png');
 background-position: center center;
 background-size: cover;
 }
 .image.userpic-xl {
-  background-image: url("../img/pics/user-157.svg");
+  background-image: url("/img/pics/user-157.svg");
   background-size: 157px 152px;
 }
 .image.userpic-lg {
-  background-image: url("../img/pics/user-112.svg");
+  background-image: url("/img/pics/user-112.svg");
   background-size: 112px 109px;
 }
 .image.userpic-md {
-  background-image: url("../img/pics/user-112.svg");
+  background-image: url("/img/pics/user-112.svg");
   background-size: 87px 85px;
 }
 .image.userpic-sm {
-  background-image: url("../img/pics/user-112.svg");
+  background-image: url("/img/pics/user-112.svg");
   background-size: 61px 60px;
 }
 .image.userpic-xs {
-  background-image: url("../img/pics/user-112.svg");
+  background-image: url("/img/pics/user-112.svg");
   background-size: 36px 36px;
 }
 .image.pic-xl {
-  background-image: url("../img/pics/pic-202.svg");
+  background-image: url("/img/pics/pic-202.svg");
   background-size: 202px 140px;
 }
 .image.pic-lg {
-  background-image: url("../img/pics/pic-140.svg");
+  background-image: url("/img/pics/pic-140.svg");
   background-size: 140px 98px;
 }
 .image.pic-sm {
-  background-image: url("../img/pics/pic-70.svg");
+  background-image: url("/img/pics/pic-70.svg");
   background-size: 70px 48px;
 }
 .video,
@@ -267,12 +267,12 @@ background-size: cover;
 }
 .flickity-prev-next-button.previous,
 .flickity-prev-next-button:hover.previous {
-  background-image: url("../img/icons/arrow-left.svg");
+  background-image: url("/img/icons/arrow-left.svg");
   left: -80px;
 }
 .flickity-prev-next-button.next,
 .flickity-prev-next-button:hover.next {
-  background-image: url("../img/icons/arrow-right.svg");
+  background-image: url("/img/icons/arrow-right.svg");
   right: -80px;
 }
 .slider-slim .flickity-prev-next-button.previous {
@@ -289,10 +289,10 @@ background-size: cover;
   background-size: 6px 11px;
 }
 .slider-rounded-buttons .flickity-prev-next-button.previous {
-  background-image: url("../img/icons/arrow-xs-left.svg");
+  background-image: url("/img/icons/arrow-xs-left.svg");
 }
 .slider-rounded-buttons .flickity-prev-next-button.next {
-  background-image: url("../img/icons/arrow-xs-right.svg");
+  background-image: url("/img/icons/arrow-xs-right.svg");
 }
 .flickity-page-dots {
   line-height: 6px;
@@ -344,7 +344,7 @@ background-size: cover;
   vertical-align: middle;
 }
 .icon-resize {
-  background-image: url("../img/icons/resize.svg");
+  background-image: url("/img/icons/resize.svg");
   width: 12px;
   height: 12px;
   position: absolute;
@@ -360,41 +360,41 @@ background-size: cover;
   top: 22px;
 }
 .icon-plane {
-  background-image: url("../img/icons/paperplane.svg");
+  background-image: url("/img/icons/paperplane.svg");
 }
 .icon-plane-light {
-  background-image: url("../img/icons/paperplane-light.svg");
+  background-image: url("/img/icons/paperplane-light.svg");
 }
 .icon-facebook {
-  background-image: url("../img/icons/facebook-white.svg");
+  background-image: url("/img/icons/facebook-white.svg");
   width: 10px;
   height: 18px;
   display: inline-block;
   top: -1px;
 }
 .icon-twitter {
-  background-image: url("../img/icons/twitter-white.svg");
+  background-image: url("/img/icons/twitter-white.svg");
   width: 17px;
   height: 14px;
   display: inline-block;
   top: -2px;
 }
 .icon-pin {
-  background-image: url("../img/icons/pin.svg");
+  background-image: url("/img/icons/pin.svg");
   width: 11px;
   height: 18px;
   display: inline-block;
   top: -2px;
 }
 .icon-pin-stroke {
-  background-image: url("../img/icons/pin-stroke.svg");
+  background-image: url("/img/icons/pin-stroke.svg");
   width: 11px;
   height: 17px;
   display: inline-block;
   top: -2px;
 }
 .icon-star {
-  background-image: url("../img/icons/star.svg");
+  background-image: url("/img/icons/star.svg");
   width: 20px;
   height: 20px;
   display: inline-block;
@@ -415,7 +415,7 @@ background-size: cover;
 }
 .icon-circle-arrow::after {
   content: '';
-  background: url("../img/icons/arrow-xs-right.svg") center no-repeat;
+  background: url("/img/icons/arrow-xs-right.svg") center no-repeat;
   width: 6px;
   height: 11px;
   display: inline-block;
