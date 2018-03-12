@@ -267,12 +267,12 @@ background-size: cover;
 }
 .flickity-prev-next-button.previous,
 .flickity-prev-next-button:hover.previous {
-  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/136e6e09/arrow-left.svg");
+  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/2486b515/arrow-left.svg");
   left: -80px;
 }
 .flickity-prev-next-button.next,
 .flickity-prev-next-button:hover.next {
-  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/136e6e09/arrow-right.svg");
+  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/2486b515/arrow-right.svg");
   right: -80px;
 }
 .slider-slim .flickity-prev-next-button.previous {
@@ -289,10 +289,10 @@ background-size: cover;
   background-size: 6px 11px;
 }
 .slider-rounded-buttons .flickity-prev-next-button.previous {
-  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/136e6e09/arrow-xs-left.svg");
+  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/2486b515/arrow-xs-left.svg");
 }
 .slider-rounded-buttons .flickity-prev-next-button.next {
-  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/136e6e09/arrow-xs-right.svg");
+  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/2486b515/arrow-xs-right.svg");
 }
 .flickity-page-dots {
   line-height: 6px;
