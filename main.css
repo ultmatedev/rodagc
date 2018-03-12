@@ -267,12 +267,12 @@ background-size: cover;
 }
 .flickity-prev-next-button.previous,
 .flickity-prev-next-button:hover.previous {
-  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/2486b515/arrow-left.svg");
+  background-image: url("img/icons/arrow-left.svg");
   left: -80px;
 }
 .flickity-prev-next-button.next,
 .flickity-prev-next-button:hover.next {
-  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/2486b515/arrow-right.svg");
+  background-image: url("img/icons/arrow-right.svg");
   right: -80px;
 }
 .slider-slim .flickity-prev-next-button.previous {
@@ -289,10 +289,10 @@ background-size: cover;
   background-size: 6px 11px;
 }
 .slider-rounded-buttons .flickity-prev-next-button.previous {
-  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/2486b515/arrow-xs-left.svg");
+  background-image: url("img/icons/arrow-xs-left.svg");
 }
 .slider-rounded-buttons .flickity-prev-next-button.next {
-  background-image: url("https://cdn.rawgit.com/ultmatedev/rodagc/2486b515/arrow-xs-right.svg");
+  background-image: url("img/icons/arrow-xs-right.svg");
 }
 .flickity-page-dots {
   line-height: 6px;
@@ -9203,7 +9203,7 @@ h5 {
   margin-top: -5px;
   width: 6px;
   height: 11px;
-  background: url("https://cdn.rawgit.com/ultmatedev/rodagc/660ecdc/arrow-xs-right.svg") no-repeat;
+  background: url("img/icons/arrow-xs-right.svg") no-repeat;
   -webkit-transform: rotate(90deg);
           transform: rotate(90deg);
 }
@@ -10679,7 +10679,7 @@ height: 150px;
   margin-top: -6px;
   padding-left: 7px;
   vertical-align: middle;
-  background: url("../../images/billing/pricing/features/icon-tip-20x20.svg") 100% 50% no-repeat;
+  background: url("img/icon-tip-20x20.svg") 100% 50% no-repeat;
   background-size: contain;
   opacity: .5
 }
@@ -12747,7 +12747,7 @@ body.authorized .header .menu .nav>ul {
   height: 14px;
   padding-left: 2px;
   vertical-align: middle;
-  background: url("../../images/billing/pricing/features/icon-tip-20x20.svg") 100% 50% no-repeat;
+  background: url("img/icons/icon-tip-20x20.svg") 100% 50% no-repeat;
   background-size: contain;
   cursor: pointer
 }
